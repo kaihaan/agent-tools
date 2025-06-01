@@ -36,6 +36,7 @@ Desktop.ini
 
 # VSCode
 .vscode/
+agent-tools.code-workspace
 
 # PyCharm
 .idea/

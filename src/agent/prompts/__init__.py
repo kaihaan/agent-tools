@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-from agent_toolcall import Agent
+from file_sys_prompt_json import SYS_PROMPT
