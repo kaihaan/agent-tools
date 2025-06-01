@@ -3,8 +3,8 @@ Agent implimentation
 """
 
 from agent import Agent
-from file_tools_json import tool_lookup
-from file_sys_prompt_json import SYS_PROMPT
+from ..agent import SYS_PROMPT
+from ..agent.tools import tool_lookup
 
 print(SYS_PROMPT)
 
